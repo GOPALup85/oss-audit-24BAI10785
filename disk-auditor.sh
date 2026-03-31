@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script 3: Disk and Permission Auditor (Unit 2)
-# Author: Nayansi Anand | Course: Open Source Software
+# Author: Gopal Singh | Course: Open Source Software
 
 # List of important system directories to audit
 DIRS=("/etc" "/var/log" "/home" "/usr/bin" "/tmp" "/var/www" "/opt")

@@ -1,8 +1,8 @@
 # Open Source Software Lab - Assignment
 
-**Student Name:** Nayansi Anand 
-**Roll Number:** 24MEI10051  
-**Chosen Software:** Python
+**Student Name:** Gopal Singh
+**Roll Number:** 24BAI10785  
+**Chosen Software:** Git
 
 ---
 
@@ -103,4 +103,4 @@ Note:
 Make sure you are running these scripts on a Linux system (or WSL on Windows). Some scripts may not work correctly on macOS or other Unix-like systems due to package manager differences.
 
 Made for Open Source Software Project
-Nayansi Anand
+Gopal Singh

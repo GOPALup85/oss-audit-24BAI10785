@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Script 5: The Open Source Manifesto Generator (Unit 5)
-# Author: Nayansi Anand | Course: Open Source Software
-# Chosen Software: Python
+# Author: Gopal Singh | Course: Open Source Software
+# Chosen Software: Git
 
 # Demonstrating alias concept:
 # alias manifesto='bash ~/manifesto-generator.sh' 
@@ -42,7 +42,7 @@ cat > "$FILENAME" << EOF
 
 Date: $DATE
 Author: $NAME
-Chosen Software: Python
+Chosen Software: Git
 
 I believe in the power of open source. 
 

@@ -4,8 +4,8 @@
 ============================================================
 
 Date: 25 March 2026
-Author: Nayansi Anand
-Chosen Software: Python
+Author: Gopal Singh
+Chosen Software: Git
 
 I believe in the power of open source. 
 
@@ -31,6 +31,6 @@ together.
 "Code is not just written — it is shared, improved, 
 and liberated."
 
-                                — Nayansi Anand
+                                — Gopal Singh
 ============================================================
 

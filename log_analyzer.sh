@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Script 4: Log File Analyzer (Units 2 & 5)
-# Author: Nayansi Anand | Course: Open Source Software
-# Chosen Software: Python
+# Author: Gopal Singh | Course: Open Source Software
+# Chosen Software: Git
 
 # ===========================
 #        Input Handling
@@ -15,7 +15,7 @@ COUNT=0
 echo "=============================================================="
 echo "               LOG FILE ANALYZER"
 echo "=============================================================="
-echo "Chosen Software : Python"
+echo "Chosen Software : Git"
 echo "--------------------------------------------------------------"
 
 # If no logfile provided, try common ones or create a demo

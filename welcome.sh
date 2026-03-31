@@ -1,12 +1,12 @@
 #!/bin/bash
 
 # Script 1: Linux System Welcome Screen
-# Author: Nayansi Anand | Course: Open Source Software
+# Author: Gopal Singh | Course: Open Source Software
 
 # ===========================
 #        Variables
 # ===========================
-STUDENT_NAME="Nayansi Anand"
+STUDENT_NAME="Gopal Singh"
 SOFTWARE_CHOICE="Linux System Welcome Script"
 
 # ===========================
